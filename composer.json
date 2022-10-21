@@ -1,0 +1,17 @@
+{
+    "name": "dygabriel31/ipt10-strapi",
+    "autoload": {
+        "psr-4": {
+            "Dygabriel31\\Ipt10Strapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ehtluhg",
+            "email": "dy.gabrielrhobert@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
